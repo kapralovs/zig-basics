@@ -1,0 +1,2 @@
+4021528 250214 1653250719578325024 711eed1c34c6e7f4d17c3e5116fea7b0 /data/data/com.termux/files/home/dev/zig/zig-basics/hello-world/zig-cache/o/306134067e3044b64d1e9a8d7b4a3bcd/build.o
+68618 1220155 1649360638824550990 55034a1efc9943b5aa38bbc59f470706 /data/data/com.termux/files/home/.cache/zig/o/776596ab23ebada02e13998cf33948a9/libcompiler_rt.a

@@ -1,0 +1,2 @@
+871032 1394572 1653250726342325022 bc20d17c5aef62bafac19ad9c6703720 /data/data/com.termux/files/home/dev/zig/zig-basics/hello-world/zig-cache/o/8192f148f9051a2d33166fba15a4ab63/hello-world.o
+68618 1220155 1649360638824550990 55034a1efc9943b5aa38bbc59f470706 /data/data/com.termux/files/home/.cache/zig/o/776596ab23ebada02e13998cf33948a9/libcompiler_rt.a
